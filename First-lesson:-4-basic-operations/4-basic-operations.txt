@@ -160,3 +160,67 @@ Alright, going back to multiplication. Let’s solve some problems.
 8 x 1 =
 9 x 0 =
 9 x 1 =
+-------------------------------------------------------------------------------------------------------------------------
+Subtraction is the opposite of addition. While in addition the quantity only increases, in subtraction it decreases.
+
+One important point: in addition and multiplication, the order doesn’t change the result, but in subtraction, the order matters.
+For example, 5 - 2 is not the same as 2 - 5.
+5 - 2 = 3
+A A A A A - A A = A A A
+
+Let’s solve some problems.
+0 - 0 =
+1 - 0 =
+1 - 1 =
+2 - 0 =
+2 - 1 =
+2 - 2 =
+3 - 0 =
+3 - 1 =
+3 - 2 =
+3 - 3 =
+4 - 0 =
+4 - 1 =
+4 - 2 =
+4 - 3 =
+4 - 4 =
+5 - 0 =
+5 - 1 =
+5 - 2 =
+5 - 3 =
+5 - 4 =
+5 - 5 =
+6 - 0 =
+6 - 1 =
+6 - 2 =
+6 - 3 =
+6 - 4 =
+6 - 5 =
+6 - 6 =
+7 - 0 =
+7 - 1 =
+7 - 2 =
+7 - 3 =
+7 - 4 =
+7 - 5 =
+7 - 6 =
+7 - 7 =
+8 - 0 =
+8 - 1 =
+8 - 2 =
+8 - 3 =
+8 - 4 =
+8 - 5 =
+8 - 6 =
+8 - 7 =
+8 - 8 =
+9 - 0 =
+9 - 1 =
+9 - 2 =
+9 - 3 =
+9 - 4 =
+9 - 5 =
+9 - 6 =
+9 - 7 =
+9 - 8 =
+9 - 9 =
