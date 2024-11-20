@@ -90,7 +90,7 @@ Now we will begin discussing multiplication. Its purpose is to replace the repet
 Example:
 2 + 2 + 2 + 2 = 8
 As you can see, we added 2 to itself 4 times.
-So, to make it easier to write this, we use "x" or "*". In this case:
+So, to make it easier to write this, we use "x" , "*" or ".". In this case:
 2 + 2 + 2 + 2 = 4 x 2 = 8
 During a calculation, multiplication takes priority. So, if you have a problem involving both addition and multiplication, we multiply first and then add.
 
